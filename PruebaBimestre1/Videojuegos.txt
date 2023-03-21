@@ -1,0 +1,11 @@
+----Videojuego----- [1] class Generos.Videojuegos
+El nombre del videojuego es: pro evolution soccer
+La abreviatura del videojuego es: pes
+El año de lanzamiento es: 2005
+El videojuego pertenece al genero : 
+La empresa que lo desarrollo: konami ----Videojuego----- [2] class Generos.Videojuegos
+El nombre del videojuego es: call of dutty 
+La abreviatura del videojuego es: COD
+El año de lanzamiento es: 2000
+El videojuego pertenece al genero : 
+La empresa que lo desarrollo: ubisoft
