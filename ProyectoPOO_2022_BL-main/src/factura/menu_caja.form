@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="src.factura.menu_caja">
+  <grid id="27dc6" binding="menu" layout-manager="GridLayoutManager" row-count="8" column-count="6" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="40" left="40" bottom="40" right="40"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-8781868"/>
+      <foreground color="-8781868"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="a91aa" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="4" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Consolas" size="28" style="2"/>
+          <foreground color="-16514810"/>
+          <text value="MENU CAJA"/>
+        </properties>
+      </component>
+      <vspacer id="6fd47">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="4" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <component id="c08e2" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="4" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="a3003" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <vspacer id="e038c">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="4" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <component id="9d61" class="javax.swing.JButton" binding="facturasButton" default-binding="true">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="50" height="50"/>
+            <maximum-size width="100" height="100"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-12103592"/>
+          <foreground color="-13518405"/>
+          <text value="Facturas"/>
+        </properties>
+      </component>
+      <component id="ed554" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="6" column="1" row-span="1" col-span="4" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="cf86d" class="javax.swing.JButton" binding="productosButton" default-binding="true">
+        <constraints>
+          <grid row="5" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="50" height="50"/>
+            <maximum-size width="150" height="150"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-12103592"/>
+          <foreground color="-13518405"/>
+          <text value="Productos"/>
+        </properties>
+      </component>
+      <component id="b89dc" class="javax.swing.JButton" binding="realizarVentaButton" default-binding="true">
+        <constraints>
+          <grid row="5" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="50" height="50"/>
+            <maximum-size width="200" height="200"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-12103592"/>
+          <foreground color="-13518405"/>
+          <text value="Realizar Venta"/>
+        </properties>
+      </component>
+      <component id="c39ca" class="javax.swing.JButton" binding="regresar">
+        <constraints>
+          <grid row="7" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="50" height="50"/>
+            <maximum-size width="200" height="200"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-12103592"/>
+          <foreground color="-8781868"/>
+          <text value="Regresar"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
