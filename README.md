@@ -11,9 +11,9 @@ Mi nombre es Andy Loor, en este apartado podrán ver algunos de los lenguajes qu
 
 <p align="center"><a  href="https://github.com/Andineitor/Andy_Loor/tree/dise%C3%B1o-web" style=" ">Diseño-Web</a></p>
 
-<p align="center"><img src="https://github.com/Andineitor/Andy_Loor/blob/Portafolio/asset/java.png" alt="Laravel" style="height: 100px; width: 300px;"></p>
+<p align="center"><img src="https://github.com/Andineitor/Andy_Loor/blob/Portafolio/asset/java.png" alt="Laravel" style="height: 300px; width: 100px;"></p>
 
-<p align="center"><a  href="https://github.com/Andineitor/Andy_Loor/tree/Java" style="center background-color: white;">Java</a></p>
+<p align="center"><a  href="https://github.com/Andineitor/Andy_Loor/tree/Java" style="center ">Java</a></p>
 
 <p align="center"><img src="https://github.com/Andineitor/Andy_Loor/blob/Portafolio/asset/c.png" alt="Laravel" style="height: 100px; width: 100px;"></p>
 
