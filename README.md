@@ -1,5 +1,5 @@
 # Desarrollador de Software
-
+<div style="background-color: white;">
 Mi nombre es Andy Loor, en este apartado podrán ver algunos de los lenguajes que manejo y con los que he trabajado, adicional a ello también observaran algunos proyectos con los distintos lenguajes aprendidos.
 
 <br>
@@ -18,3 +18,4 @@ Mi nombre es Andy Loor, en este apartado podrán ver algunos de los lenguajes qu
 <p align="center"><img src="https://github.com/Andineitor/Andy_Loor/blob/Portafolio/asset/c.png" alt="Laravel" style="height: 100px; width: 100px;"></p>
 
 <p align="center"><a  href="https://github.com/Andineitor/Andy_Loor/tree/C++" style="center background-color: white;">-> C++</a></p>
+</div>
