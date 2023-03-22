@@ -7,6 +7,3 @@ Mi nombre es Andy Loor, en este apartado podrán ver algunos de los lenguajes qu
 
 <p align="center"><a  href="https://github.com/Andineitor/Andy_Loor/tree/Laravel" style="center">Laravel</a></p>
 
-<p align="center"><img src="https://github.com/Andineitor/Andy_Loor/blob/Portafolio/asset/laravel_icon_130892.png" alt="Laravel" style="height: 100px; width: 100
-
-<p align="center"><a  href="https://github.com/Andineitor/Andy_Loor/tree/Laravel" style="center color-text-white">Diseño-Web</a></p>
