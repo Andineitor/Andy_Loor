@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(167, 209, 246);
+}
+
+
+.img1{
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+    
+}
+.principal{
+    background: white;
+    width: 350px;
+    height: 500px;
+    margin: 100px auto;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.order{
+    background: white;
+    text-align: center;
+    margin: 0px;
+    font-size: 25px;
+}
+
+.parrafo{
+    background: white;
+    margin: 0px 30px;
+    text-align: center;
+    font-size: 16px;
+    color: gray;
+}
+
+.seccion{
+    background: hsl(225, 100%, 98%);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px 0px;
+    display: flex;
+    align-items: center;
+}
+.img2{
+    background: hsl(225, 100%, 98%);
+   
+}
+.img22{
+    background: hsl(225, 100%, 98%);
+   margin: 5px;
+}
+.precio{
+    background: hsl(225, 100%, 98%);
+    margin: 10px;
+    margin-right: 55px;
+}
+.annual{
+    background: hsl(225, 100%, 98%);
+    font-size: 16px;
+    display: flex;
+    align-self: left;
+}
+.money{
+    font-size: 16px;
+    color: gray;
+    background: hsl(225, 100%, 98%);
+}
+.change{
+    background: hsl(225, 100%, 98%);
+}
+.proceed {
+    background: hsl(245, 75%, 52%);
+    padding: 10px;
+    text-align: center;
+    margin: 0px 30px;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+}
+.pay{
+    background: hsl(245, 75%, 52%);
+
+}
+
+.cancel{
+    background:white;
+    text-align: center;
+    margin-bottom: 25px;
+    color: grey;
+    font-size: 16px;
+}
