@@ -1,0 +1,21 @@
+	 COCA-COLA
+	 Reporte de salarios
+
+	 REGISTRO 		DATOS
+Numero del empleado: 		a
+Apellido del empleado: 		a
+Edad del empleado: 		12
+Sueldo mensual del empleado: 	$12
+Anios de trabajo: 		12
+Recibe ganancia: 		si
+Nuevo Sueldo a Recibir: 	$13.2
+	 Reporte de salarios
+
+	 REGISTRO 		DATOS
+Numero del empleado: 		
+Apellido del empleado: 		b
+Edad del empleado: 		11
+Sueldo mensual del empleado: 	$11
+Anios de trabajo: 		11
+Recibe ganancia: 		si
+Nuevo Sueldo a Recibir: 	$12.1
