@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProyectoPOO_2022_BL:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProyectoPOO_2022_BL_jar</output-path>
+    <root id="archive" name="ProyectoPOO_2022_BL.jar">
+      <element id="module-output" name="ProyectoPOO_2022_BL" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/swingx-all-1.6.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

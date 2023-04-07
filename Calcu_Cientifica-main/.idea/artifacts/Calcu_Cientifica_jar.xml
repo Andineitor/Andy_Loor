@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Calcu_Cientifica:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Calcu_Cientifica_jar</output-path>
+    <root id="archive" name="Calcu_Cientifica.jar">
+      <element id="module-output" name="Calcu_Cientifica" />
+    </root>
+  </artifact>
+</component>

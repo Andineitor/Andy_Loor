@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="ProyectoPOO_2022_BL">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProyectoPOO_2022_BL</output-path>
+    <root id="root">
+      <element id="archive" name="ProyectoPOO_2022_BL.jar">
+        <element id="module-output" name="ProyectoPOO_2022_BL" />
+      </element>
+    </root>
+  </artifact>
+</component>
